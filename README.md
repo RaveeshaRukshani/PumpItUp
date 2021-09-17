@@ -45,5 +45,7 @@ GitHub Page: [https://github.com/RaveeshaRukshani/PumpItUp](https://github.com/R
 - Feature Importance - 
   - According to the plot permit feature has more importance and latitude feature has less importance.
 
+## Submission
+![submission](https://user-images.githubusercontent.com/47144186/133787412-4107a24e-6e55-4f54-b050-ace10b5a4da4.png)
 
 
